@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a1c5c92.chunk.css",
+    "main.js": "/static/js/main.b57f08fe.chunk.js",
+    "main.js.map": "/static/js/main.b57f08fe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53aeeaea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53aeeaea.js.map",
+    "static/css/2.86a5f087.chunk.css": "/static/css/2.86a5f087.chunk.css",
+    "static/js/2.b68a43e2.chunk.js": "/static/js/2.b68a43e2.chunk.js",
+    "static/js/2.b68a43e2.chunk.js.map": "/static/js/2.b68a43e2.chunk.js.map",
+    "static/js/3.6d32e0a1.chunk.js": "/static/js/3.6d32e0a1.chunk.js",
+    "static/js/3.6d32e0a1.chunk.js.map": "/static/js/3.6d32e0a1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.86a5f087.chunk.css.map": "/static/css/2.86a5f087.chunk.css.map",
+    "static/css/main.2a1c5c92.chunk.css.map": "/static/css/main.2a1c5c92.chunk.css.map",
+    "static/js/2.b68a43e2.chunk.js.LICENSE.txt": "/static/js/2.b68a43e2.chunk.js.LICENSE.txt",
+    "static/media/chandung_01.995f8868.jpg": "/static/media/chandung_01.995f8868.jpg",
+    "static/media/k23.6a2f4284.jpg": "/static/media/k23.6a2f4284.jpg",
+    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53aeeaea.js",
+    "static/css/2.86a5f087.chunk.css",
+    "static/js/2.b68a43e2.chunk.js",
+    "static/css/main.2a1c5c92.chunk.css",
+    "static/js/main.b57f08fe.chunk.js"
+  ]
+}
